@@ -11,18 +11,33 @@ You can run this interactively or provide it the -e option with an email address
 Example email:
 
 > To: recipient@example.com
+
 > Subject: Lunch selection for Wed, 2019-11-06
+
 > Current weather: haze
+
 > Current temperature: 58 F
+
 > Weather adapted search radius: .50 miles
+
 >
+
 > Selection:
+
 > Sandwich Zone
+
 > 4 stars
+
 > 153 reviews
+
 > Sandwiches
+
 > Delis
+
 > 2117 Shattuck Ave
+
 > Berkeley, CA 94704
+
 > 
+
 > Generated from /usr/local/bin/LUNCH.sh
