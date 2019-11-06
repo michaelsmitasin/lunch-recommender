@@ -11,7 +11,7 @@ You can run this interactively or provide it the -e option with an email address
 Example email:
 
 > To: recipient@example.com
-
+> 
 > Subject: Lunch selection for Wed, 2019-11-06
 
 > Current weather: haze
