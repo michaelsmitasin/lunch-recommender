@@ -4,7 +4,7 @@ To use this, you'll need to:
 * modify the date command to not use -j if you're running on Linux instead of Unix.
 * enter the latitude/longitude in decimal format (not deg/min/sec) to center the search radius.
 
-You can run this interactively or provide it the -e option with an email address to have it run on a schedule.
+You can run this interactively or provide it the -e <email_addr> option to have it run on a schedule and email you.
 
 Example email:
 
