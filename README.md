@@ -9,7 +9,7 @@ Finally, you'll need to enter the latitude/longitude in decimal format (not deg/
 You can run this interactively or provide it the -e option with an email address to have it run on a schedule.
 
 Example email:
-
+`
 To: recipient@example.com
 Subject: Lunch selection for Wed, 2019-11-06
 Current weather: haze
@@ -25,4 +25,4 @@ Delis
 2117 Shattuck Ave
 Berkeley, CA 94704
 
-Generated from /usr/local/bin/LUNCH.sh
+Generated from /usr/local/bin/LUNCH.sh`
