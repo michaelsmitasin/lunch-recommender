@@ -122,7 +122,7 @@ if [ -z $RECIPIENTS ]
 then
         BUILDTEXT
 else
-        BUILDTEXT | /usr/sbin/sendmail "$RECIPIENTS"
+        BUILDTEXT | /usr/sbin/sendmail -t
 fi
 
 ###############################################################################
